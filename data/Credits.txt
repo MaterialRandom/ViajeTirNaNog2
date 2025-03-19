@@ -1,0 +1,16 @@
+  <block:3000,0,255,255,50,center,Book2>
+Creado por Material Random
+
+Sistema
+Yanfly
+RPG Maker MV
+Galv
+
+Tilesets y generador de personajes
+Whtdragon
+Hiddenone
+PandaMaru
+Avery
+
+Agradecimientos al Grupo de Telegram de RPG Maker Edu
+    </block>
